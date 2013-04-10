@@ -15,7 +15,7 @@ requests.__version__
 prefix = 'http://labs.adsabs.harvard.edu/adsabs/api/search/?q='
 suffix1 = '&fl=bibcode&dev_key='
 suffix2 = '&hl=full&hl=abstract&rows=5&dev_key='
-apikey = '8IIQgx5DrWZBwr2o'
+apikey = ''
 
 # <codecell>
 
