@@ -72,7 +72,7 @@ with codecs.open('/Users/christine/adsgrants/nasa/NASA_Awards.csv', mode='rU', e
     for row in reader:
         grant = row[18]
         print grant
-        grantpi = ' '.join(row[4].split()[1:])
+        #grantpi = ' '.join(row[4].split()[1:])
         result = requests.get(prefix1 + grant + suffix2 + apikey).json()
         time.sleep(1)
         if str(result).find("'bibcode':") == -1:
