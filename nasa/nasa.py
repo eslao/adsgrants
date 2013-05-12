@@ -6,7 +6,6 @@
 import csv
 import requests
 import json
-from pprint import pprint
 import time
 import codecs
 requests.__version__
