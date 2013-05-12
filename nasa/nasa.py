@@ -16,7 +16,7 @@ prefix1 = 'http://labs.adsabs.harvard.edu/adsabs/api/search/?q='
 prefix2 = 'http://labs.adsabs.harvard.edu/adsabs/api/record/'
 suffix1 = '&fl=bibcode,property&rows=200&dev_key='
 suffix2 = '&hl=full&hl=abstract&rows=200&dev_key='
-apikey = 'xHsyrN672gjJ2GHn'
+apikey = ''
 #columns = ['PR Number', 'Grant Number', 'Pgrp / Center', 'Proposal Title', 'PI Name', 'Technical Officer', 'Institution', 'Award Date', 'Performance Start Date', 'Performance End Date', 'Status', 'Congressional Directed Item', 'ADS status', 'Bibcode', 'Title', 'Author', 'Author affiliation', 'Keyword', 'Identifier', 'Citation count', 'Publication', 'Volume', 'Issue', 'Page', 'Abstract']
 
 # <codecell>
