@@ -16,7 +16,7 @@ prefix2 = 'http://labs.adsabs.harvard.edu/adsabs/api/record/'
 suffix1 = '&fl=bibcode&dev_key='
 suffix2 = '&hl=full&hl=abstract&rows=5&dev_key='
 suffix3 = '?fl=author,pub,aff,property,keyword,title&rows=200&dev_key='
-apikey = '8IIQgx5DrWZBwr2o'
+apikey = ''
 
 
 #with open('/Users/christine/adsgrants/nasa/NASA_grants_test.csv', 'rU') as f:

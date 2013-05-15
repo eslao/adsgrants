@@ -13,4 +13,4 @@ my_sublist2 = [i.replace('\n', '') for i in my_sublist]
 
 for item in my_sublist2:
 	output =  "%s" % item
-	print "http://adslabs.org/adsabs/api/search/?q=\"" + str(output) + "\"&dev_key=8IIQgx5DrWZBwr2o"
+	print "http://adslabs.org/adsabs/api/search/?q=\"" + str(output) + "\"&dev_key="

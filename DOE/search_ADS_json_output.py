@@ -9,7 +9,7 @@ test_sublist2 = [i.replace('\n', '') for i in test_sublist]
 # reads the contents of doe_grant_numbers_subset2.txt into a list, removes line breaks
 
 prefix = "http://adslabs.org/adsabs/api/search/"
-apikey = "8IIQgx5DrWZBwr2o"
+apikey = ""
 # just sets the variables for the first part of the search string and the API key
 
 def searchads(grantno):
